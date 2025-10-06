@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.besoro.denom",
+            "sha256_cert_fingerprints": [
+                "C3:BB:26:78:D9:32:10:71:EA:6D:4D:9C:93:2F:59:43:07:27:71:10:88:4C:F4:1F:98:B5:99:29:01:4C:B0:0E"
+            ]
+        }
+    }
+]
